@@ -1,5 +1,5 @@
 # <p align="center">Hi 👋, I’m Samuel Mensah</p>
- <h3>I’m a passionate software engineer with frontend specialty</h2>
+ <h3>I’m a passionate software engineer</h2>
  
 - 🌱 I’m currently learning NodeJs for backend development
 - 📫 You can reach me by mail on codingbrowny@gmail.com
